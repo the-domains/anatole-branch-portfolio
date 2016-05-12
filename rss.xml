@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anatole Branch Portfolio]]></title>
         <description><![CDATA[Anatole Branch Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anatole-branch-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 20:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 21:24:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anatole-branch-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/829192fd-9168-4948-ad97-ece862552787.jpg">]]></description>
+            <link>https://thegrid.ai/anatole-branch-portfolio/chaos-picture-test/index.html</link>
+            <guid isPermaLink="false">cfaa1503-55cf-45c7-9cd8-5f605c47b2d7</guid>
+            <pubDate>Thu, 12 May 2016 21:24:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bio</p>]]></description>
-            <link>undefinedbio/index.html</link>
+            <link>https://thegrid.ai/anatole-branch-portfolio/bio/index.html</link>
             <guid isPermaLink="false">29e2f103-ec96-4c0e-99ce-fa58c08c1ad6</guid>
             <pubDate>Thu, 12 May 2016 20:30:00 GMT</pubDate>
         </item>
