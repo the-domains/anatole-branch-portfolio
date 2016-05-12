@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Anatole Branch Portfolio]]></title>
+        <description><![CDATA[Anatole Branch Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 20:27:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[testing this site]]></title>
+            <description><![CDATA[<p>testing</p>]]></description>
+            <link>undefinedtesting-this-site/index.html</link>
+            <guid isPermaLink="false">7adba095-252e-4363-a348-cde3b798dcae</guid>
+            <pubDate>Thu, 12 May 2016 20:27:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
